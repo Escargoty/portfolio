@@ -1,96 +1,86 @@
-# Qui suis-je ?
+# Raphaël Pocholle
 
-Je m'appelle **Raphaël Pocholle**, étudiant en deuxième année de BUT Informatique à l'IUT d’Amiens.  
-Passionné par le développement web, je suis rigoureux, autonome, et toujours curieux d’apprendre de nouvelles technologies.  
-J’apprécie particulièrement travailler sur des projets concrets, en équipe ou en autonomie, avec une attention portée à la qualité du code et à l’expérience utilisateur.
+## Étudiant en BUT Informatique — Développeur web en devenir
 
----
-
-## Mon parcours
-
-| Année       | Formation                                                                  |
-|-------------|----------------------------------------------------------------------------|
-| 2023-2025   | BUT Informatique – IUT d’Amiens                                            |
-| 2022-2023   | Prépa intégrée – UTBM (Université de Technologie de Belfort-Montbéliard)   |
-| 2019-2022   | Bac Général – Spécialités Mathématiques et Sciences de l’Ingénieur – Lycée Edouard Branly |
+Passionné par le **développement web**, je suis actuellement en deuxième année de BUT Informatique à l’IUT d’Amiens.  
+Curieux, rigoureux et autonome, je prends plaisir à travailler sur des projets concrets, en particulier lorsqu’ils impliquent la création d’interfaces web dynamiques et la mise en place de solutions fonctionnelles côté serveur.
 
 ---
 
-## Mes compétences du BUT2
+## Parcours académique
 
-### Réaliser un développement d'application
-> Analyser les besoins d’un client, comprendre un cahier des charges, concevoir et développer des solutions logicielles efficaces et maintenables.
+🎓 **2023 – 2025**  
+**BUT Informatique** – IUT d’Amiens
 
-### Optimiser des applications informatiques
-> Améliorer les performances d'une application (temps, mémoire...), appliquer des techniques d'optimisation, utiliser des outils de profilage et de test.
+🛠️ **2022 – 2023**  
+**Prépa intégrée** – Université de Technologie de Belfort-Montbéliard (UTBM)
 
-### Administrer des SI communicants complexes
-> Configurer et sécuriser des systèmes, assurer leur interconnexion, gérer les services réseau et l’administration d’infrastructures.
-
-### Gérer des données de l'information
-> Concevoir des bases de données, interroger et manipuler des données (SQL, NoSQL), garantir leur qualité, confidentialité et intégrité.
-
-### Conduire un projet
-> Planifier, organiser et piloter un projet informatique en équipe, avec des méthodes de gestion adaptées (cycle en V, agile...).
-
-### Travailler dans une équipe informatique
-> Collaborer au sein d’une équipe, communiquer efficacement, s’intégrer dans un environnement professionnel, faire preuve d’autonomie et de responsabilité.
-
-| **Front-end** | **Back-end**  |
-| ------------- | ------------- |
-| HTML          | C             |
-| CSS           | C++           |
-| JavaScript    | C#            |
-| Bootstrap     | Python        |
-| Tailwind      | PHP (Laravel) |
-| C# (pour GUI) |               |
-
-| **Base de données** | **Outils** |
-| ------------------- | ---------- |
-| MySQL               | Git        |
-|                     | Bash       |
-|                     | Unix       |
+📐 **2019 – 2022**  
+**Bac Général** – Spécialités Mathématiques & Sciences de l’Ingénieur  
+Lycée Édouard Branly, Amiens
 
 ---
 
-## Projets & expériences (SAÉ, stages)
+## Compétences
 
-### Stage ouvrier – Schlumberger (Abbeville)
-- Découverte du monde de l’industrie, immersion dans une organisation technique complexe.
+### 🔧 Développement
 
-### Stage informatique – Club des Aînés (Longpré-les-Corps-Saints)
-- Création d’un site web vitrine pour un club associatif : design, développement front-end et back-end (HTML, CSS, JS, PHP avec Laravel).
+- **Front-end :** HTML, CSS, JavaScript, Bootstrap, Tailwind, C# (interface graphique)
+- **Back-end :** PHP (Laravel), Python, C, C++, C#
+- **Bases de données :** MySQL
+- **Systèmes :** Bash, Unix
 
-### SAÉ – Site Web Gérico
-- Conception et développement d’un site web pour un projet réel  
-- Réalisation de l’interface utilisateur en HTML, CSS (avec Tailwind) et JavaScript  
-- Développement du back-end en PHP avec le framework Laravel
+### 🧠 Savoirs-faire
 
-### SAÉ – Jeu Pacbot 
-- Développement d’un jeu inspiré de Pacman avec des variantes : pouvoirs, niveaux  
-- Gestion de collision, IA simple pour les ennemis
-
-### SAÉ – Application de gestion de membres
-- Création d’un programme de gestion de données en langage C  
-- Implémentation d’algorithmes et de structures de données  
-- Mise en place de tests pour valider le bon fonctionnement de l’application
+- Conception et développement d’applications web
+- Optimisation de code et de performances
+- Administration de systèmes communicants
+- Manipulation et structuration des données
+- Gestion de projets (méthodes agiles, cycle en V)
+- Collaboration en équipe, utilisation de Git
 
 ---
 
-## Réflexion sur mon parcours
+## Projets réalisés & expériences
 
-Ce BUT m’a permis de :
-- Renforcer mes bases en algorithmique, en développement web et en architecture des systèmes
-- Découvrir des outils professionnels et des méthodes de travail en équipe (notamment avec Git et les méthodes agiles)
-- Développer mon autonomie, ma capacité à apprendre rapidement, et à gérer efficacement mon temps
+### 💼 Stage ouvrier – Schlumberger (Abbeville)
+**Janvier – Février 2023**  
+Découverte du fonctionnement industriel d’un grand groupe technologique, intégration dans une équipe technique.
 
-Je me projette vers une école d’ingénieur ou un master orienté développement logiciel ou web, avec l’objectif de devenir développeur fullstack ou architecte logiciel.
+### 💻 Stage de développement – Club des Aînés (Longpré-les-Corps-Saints)
+**Janvier – Mars 2025**  
+Conception et réalisation d’un **site vitrine** : design, intégration responsive, mise en place d’un back-end avec **PHP (Laravel)**.
+
+### 🎮 Pacbot – Projet jeu en C
+Jeu inspiré de Pacman avec IA ennemie, gestion de collisions, pouvoirs bonus.  
+Projet développé dans le cadre d’une SAÉ avec gestion d’équipes.
+
+### 🌐 Site Gérico – Application web complète
+Projet réalisé pour un client réel :  
+- Front-end en **Tailwind, HTML, JS**  
+- Back-end en **Laravel**  
+- Travail en équipe avec versionnage Git et sprints agiles
+
+### 🗃️ Gestion de membres – Application en C
+Application en ligne de commande pour la gestion de fichiers membres :  
+tri, recherche, insertion, suppression, avec une logique basée sur des structures de données adaptées.
 
 ---
 
-## Me contacter
+## Ce que m’apporte le BUT
 
-- Téléphone : +33 6 65 22 87 63  
-- Email : raphael.pchl@gmail.com
+Le BUT m’a permis de :
+- Approfondir mes compétences techniques et pratiques
+- Travailler sur des projets concrets avec une vraie méthodologie de production
+- Gagner en autonomie, en organisation et en esprit d’équipe
+
+🎯 **Objectif :** poursuivre vers une école d’ingénieur ou un master spécialisé en développement web ou architecture logicielle.
+
+---
+
+## Contact
+
+📞 **Téléphone :** +33 6 65 22 87 63  
+✉️ **Email :** raphael.pchl@gmail.com  
 
 ---
