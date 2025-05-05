@@ -80,5 +80,5 @@ Le BUT m’a permis de :
 
 ## Contact
 
-📞 **Téléphone :** +33 6 65 22 87 63  
-✉️ **Email :** raphael.pchl@gmail.com  
+**Téléphone :** +33 6 65 22 87 63  
+**Email :** raphael.pchl@gmail.com  
