@@ -56,6 +56,7 @@ Conception et réalisation d’un **site vitrine** : design, intégration respon
 ### Pacbot – Projet jeu en C
 Jeu inspiré de Pacman avec IA ennemie, gestion de collisions, pouvoirs bonus.  
 Projet développé dans le cadre d’une SAÉ avec gestion d’équipes.
+
 ![Capture du site](pacbot.png)
 
 ### Site Gérico – Application web complète
