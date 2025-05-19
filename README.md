@@ -50,6 +50,7 @@ Découverte du fonctionnement industriel d’un grand groupe technologique, int�
 ### Stage de développement – Club des Aînés (Longpré-les-Corps-Saints)
 **Janvier – Mars 2025**  
 Conception et réalisation d’un **site vitrine** : design, intégration responsive, mise en place d’un back-end avec **PHP (Laravel)**.
+
 ![Capture du site](stage.png)
 
 ### Pacbot – Projet jeu en C
